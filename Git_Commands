@@ -1,0 +1,29 @@
+Git:
+Git is a Distributed Version Control System whcih is used to create multiple versions of a projects and managed small and large projects with a team.
+
+Version Control System:
+
+1 - Local VCS.
+2 - Centralized VCS.
+3 - Distributed version control system.
+
+Commands:
+
+git
+This shows all possible commands of github
+
+pwd(present work directory)
+This shows the current directory
+
+git config user.name = "Ali Hamza"
+OR
+$ git config --global user.name "Ali Hamza"
+This configure user Name
+
+
+$ git config --global user.email "alihamza.aimviz99@gmail.com"
+OR
+$ git config user.email "alihamza.aimviz99@gmail.com"
+
+This Coonfigure Email
+
