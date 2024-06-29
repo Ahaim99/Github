@@ -27,3 +27,8 @@ $ git config user.email "alihamza.aimviz99@gmail.com"
 
 This Coonfigure Email
 
+git init
+This command create current directory a Git Directory
+
+git status
+This Command Show every file change status
