@@ -32,3 +32,10 @@ This command create current directory a Git Directory
 
 git status
 This Command Show every file change status
+
+Three Stage Archietecture:
+Working directory
+Staging Area
+Git Directory (Repositry)
+
+This is use for temporary exempt a file which user doesn't want to update in next commit.
