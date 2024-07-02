@@ -1,0 +1,18 @@
+git (this shows all possible commands about git)
+
+pwd (this show the Present Work Directory or Current Directory)
+
+git config user.name = "Ali Hamza"
+OR
+$ git config --global user.name "Ali Hamza"
+(This configure user Name)
+
+$ git config --global user.email "alihamza.aimviz99@gmail.com"
+OR
+$ git config user.email "alihamza.aimviz99@gmail.com"
+(This Coonfigure Email)
+
+
+git init (This command create current directory a Git Directory)
+
+git status (This Command Show every file change status)
