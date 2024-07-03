@@ -51,3 +51,5 @@ git add --a (--a this use for place files in staging area)
 git commit -m "Portal_APX Created" (This make a commit, "-m" use for message )
 
 git log (shows command shows all commit details)
+
+Clone a repositry from Github:
