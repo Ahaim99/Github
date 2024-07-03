@@ -40,3 +40,13 @@ Git Directory (Repositry)
 
 This is use for temporary exempt a file which user doesn't want to update in next commit.
 this file stored in temporary state name "staging".
+
+Initialize First Git Project:
+Create a project in a folder and open this directory on terminal
+
+git init(Create git repositry)
+
+git add --a (--a this use for place files in staging area)
+
+git commit -m "Portal_APX Created" (This make a commit, "-m" use for message )
+
