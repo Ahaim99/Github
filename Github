@@ -65,4 +65,18 @@ Open folder in terminal on local PC:
 run command:
 git clone paste project url here
 
+Git Ingone:
+If you don't want to upload any file in a repositry
+Create a file and named it ".gitignore" it is aslo a extension.
 
+open .gitignore file code Editor
+just type name of file
+error.log
+
+if you want to ignore all files with the extension ".log"
+type
+*.log
+
+If you want to ignore a folder 
+type 
+FolderName/
