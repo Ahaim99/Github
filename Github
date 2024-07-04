@@ -79,4 +79,4 @@ type
 
 If you want to ignore a folder 
 type 
-FolderName/
+FolderName/ (type folderName and /)
