@@ -25,3 +25,5 @@ git log (shows command shows all commit details)
 
 Clone Project From github:
 git clone paste project url here
+
+ls (List Files)
