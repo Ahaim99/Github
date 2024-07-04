@@ -53,3 +53,16 @@ git commit -m "Portal_APX Created" (This make a commit, "-m" use for message )
 git log (shows command shows all commit details)
 
 Clone a repositry from Github:
+
+Create a Folder in your local PC where you want to place the project.
+
+Open a project you want to clone on github
+Click on Code Button
+in Close section (HTTP)
+copy the URL
+
+Open folder in terminal on local PC:
+run command:
+git clone paste project url here
+
+
