@@ -80,3 +80,11 @@ type
 If you want to ignore a folder 
 type 
 FolderName/ (type folderName and /)
+
+File Status Life Cycle in GIT:
+There are 4 phases:
+
+Untracked
+Unmodified
+Modified
+Staged
