@@ -88,3 +88,18 @@ Untracked
 Unmodified
 Modified
 Staged
+
+You created a directory in your PC
+when you run "git init" git takes control of this directory.
+
+UNTRACKED:
+Now you run "git status" git show you untracked files.
+
+UNMODIFIED:
+When you run "git add" it add files to staging area and show it unmodified state.
+
+UNMODIFIED:
+When you edit any file and run "git status" Now this shows unmodified files.
+
+STAGED:
+When we commit the code using "git commit" command it is in staged state.
