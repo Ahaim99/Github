@@ -115,3 +115,6 @@ Difference between Commit, Staging Area and Working Directory:
 git diff --staged (Compare working directory to staged data)
 
 git diff ( Comapre working directory to last commit)
+
+Skip Staging Area and Directly Commit:
+git commit -a -m "Commit msg here"
