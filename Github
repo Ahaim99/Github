@@ -103,3 +103,9 @@ When you edit any file and run "git status" Now this shows unmodified files.
 
 STAGED:
 When we commit the code using "git commit" command it is in staged state.
+
+Difference between Commit, Staging Area and Working Directory:
+
+git diff --staged (Compare working directory to staged data)
+
+git diff ( Comapre working directory to last commit)
