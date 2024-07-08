@@ -21,6 +21,9 @@ git add --a (--a this use for place files in staging area)
 OR
 git add .a
 
+When staged a single file:
+git add FileName
+
 git commit -m "Portal_APX Created" (This make a commit, "-m" use for message )
 
 git log (shows command shows all commit details)
