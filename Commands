@@ -29,3 +29,7 @@ Clone Project From github:
 git clone paste project url here
 
 ls (List Files)
+
+git diff --staged (Compare working directory to staged data)
+
+git diff ( Comapre working directory to last commit)
