@@ -118,3 +118,17 @@ git diff ( Comapre working directory to last commit)
 
 Skip Staging Area and Directly Commit:
 git commit -a -m "Commit msg here"
+
+Unstaging and Unmodifying Files in Git:
+If you want to restore a file from staging area to working directory, so run this command.
+git restore --staged fileName
+
+Unmodify:
+If you want to RESTORE A FILE from Last Commit to your working directory, so run this command.
+git restore FileName
+OR
+git checkout Filename
+
+
+If you want to RESTORE WHOLE DIRECTORY from last commit to working directory, so run this command.
+git checkout -f
