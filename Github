@@ -132,3 +132,18 @@ git checkout Filename
 
 If you want to RESTORE WHOLE DIRECTORY from last commit to working directory, so run this command.
 git checkout -f
+
+Rename File:
+Way 1:
+if you want to rename your file, simply rename it in your working directory and run 'git status' it show the file1 has delete and file2 was created.
+But when you staged this file "git add ." it show you "Rename: file1 to file2".
+after that you Normally commit these files.
+
+Way2:
+git mv oldFileName newFileName
+This Command also staged the file
+
+
+Delete/Remove File:
+git rm FileName
+(When you want to remove File and this command also staged this file)
