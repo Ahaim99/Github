@@ -152,3 +152,5 @@ Note::These Files are remove and Delete When previous files are commited.
 
 Clear a file from cache:
 git rm --cached FileName
+(This command is use for the conditions like when we put a file in ".gitignore" and and we can't commit this change. so the files is track usally untill you removed this file from cache.)
+
