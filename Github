@@ -147,3 +147,5 @@ This Command also staged the file
 Delete/Remove File:
 git rm FileName
 (When you want to remove File and this command also staged this file)
+
+Note::These Files are remove and Delete When previous files are commited.
