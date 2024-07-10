@@ -65,3 +65,6 @@ git rm FileName
 
 Clear a file from cache:
 git rm --cached FileName
+
+Clear a file from cache:
+git rm --cached FileName
