@@ -62,3 +62,6 @@ This Command also staged the file
 Delete/Remove File:
 git rm FileName
 (When you want to remove File and this command also staged this file)
+
+Clear a file from cache:
+git rm --cached FileName
