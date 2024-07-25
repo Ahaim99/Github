@@ -157,3 +157,5 @@ git rm --cached FileName
 Remote Repositry:
 When you working on a project which is connect to github repositry is called Remote Repositry.
 
+To store your files on remote repositry using "git push"
+Here are the steps:
