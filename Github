@@ -159,3 +159,13 @@ When you working on a project which is connect to github repositry is called Rem
 
 To store your files on remote repositry using "git push"
 Here are the steps:
+
+Now First Check if there any origin is set or not:
+git remote -v
+
+if any origin is set this command return like this.
+origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
+origin  git@github.com:USERNAME/REPOSITORY.git (push)
+
+Now Set new Origin:
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
