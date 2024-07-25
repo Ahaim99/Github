@@ -160,6 +160,27 @@ When you working on a project which is connect to github repositry is called Rem
 To store your files on remote repositry using "git push"
 Here are the steps:
 
+First Create SSH Key on github.com:
+Goto Profile -> Settings -> SSH and GPG Keys -> Create New Key ->Put Name and Key
+
+How to Get Key:
+Seacrh "ssh key github" on Google
+see command in github documentation
+
+Command:
+ssh-keygen -t ed25519 -C "alihamza.aimviz99@gmail.com"
+just press Enter, Enter,.. and then Run next command
+
+eval "$(ssh-agent -s)"
+here the output "Agent pid 18055"
+
+then Run:
+ssh-add ~/.ssh/id_ed25519
+
+to see SSH:
+cat ~/.ssh/id_ed25519.pub
+
+
 Now First Check if there any origin is set or not:
 git remote -v
 
@@ -169,3 +190,6 @@ origin  git@github.com:USERNAME/REPOSITORY.git (push)
 
 Now Set new Origin:
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+
+Push Code:
+git push origin main
