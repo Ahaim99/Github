@@ -75,7 +75,7 @@ Git Ingone:
 If you don't want to upload any file in a repositry
 Create a file and named it ".gitignore" it is aslo a extension.
 
-open .gitignore file code Editor
+open .gitignore file on code Editor
 just type name of file
 error.log
 
