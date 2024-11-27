@@ -49,7 +49,7 @@ git init(Create git repositry)
 Add to Staging Area:
 git add --a (--a this use for place files in staging area)
 OR
-git add .a
+git add .
 
 When staged a single file:
 git add FileName
