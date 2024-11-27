@@ -160,6 +160,7 @@ When you working on a project which is connect to github repositry is called Rem
 To store your files on remote repositry using "git push"
 Here are the steps:
 
+(If your files can not push, follow these steps)
 First Create SSH Key on github.com:
 Goto Profile -> Settings -> SSH and GPG Keys -> Create New Key ->Put Name and Key
 
