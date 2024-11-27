@@ -188,7 +188,7 @@ if any origin is set this command return like this.
 origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
 origin  git@github.com:USERNAME/REPOSITORY.git (push)
 
-Now Set new Origin:
+Now Set new Origin: (This Command generate by github when repositry is created)
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 Push Code:
