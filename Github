@@ -173,7 +173,7 @@ ssh-keygen -t ed25519 -C "alihamza.aimviz99@gmail.com"
 just press Enter, Enter,.. and then Run next command
 
 eval "$(ssh-agent -s)"
-here the output "Agent pid 18055"
+here the output "Agent pid 24198"
 
 then Run:
 ssh-add ~/.ssh/id_ed25519
