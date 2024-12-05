@@ -207,3 +207,17 @@ git checkout BranchName (e.g, Master)
 Command to see all branches:
 git branch (Green branch is Selected Branch)
 
+
+Merge:
+Master needs to merge the code of all developers who work with project.
+
+to merge the code, first of all switch to "Master" or "Main" Brnach
+
+to Swicth Branch:
+git branch master or main
+
+Merge:(merge one by one all branches)
+git merge branchA
+git merge branchA
+git merge branchA
+etc.
