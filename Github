@@ -221,3 +221,16 @@ git merge branchA
 git merge branchA
 git merge branchA
 etc.
+
+Git Push:
+
+How to check is it remote repository?
+Run Command:
+git remote -v (If Empty, its not remote repository)
+
+Create Remote Repo and Push:
+
+git push origin BranchName
+
+On githib.com, after Push open a link to compare and Pull Request
+Create pull request
