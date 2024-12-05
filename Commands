@@ -68,3 +68,13 @@ git rm --cached FileName
 
 Clear a file from cache:
 git rm --cached FileName
+
+
+Command to create a New Branch:
+git checkout -b BranchName
+
+Command to Switch Branch:
+git checkout BranchName (e.g, Master)
+
+Command to see all branches:
+git branch (Green branch is Selected Branch)
