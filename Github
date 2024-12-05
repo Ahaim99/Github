@@ -230,7 +230,10 @@ git remote -v (If Empty, its not remote repository)
 
 Create Remote Repo and Push:
 
-git push origin BranchName
+git push origin BranchName (Alaways pull from master to get latest code)
 
-On githib.com, after Push open a link to compare and Pull Request
-Create pull request
+Pull:
+git pull origin BranchName (e.g, MASTER or MAIN)
+
+On githib.com:
+  After Push request done by user github open a link to compare and Pull Request to master copy.
