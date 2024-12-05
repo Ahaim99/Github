@@ -237,3 +237,11 @@ git pull origin BranchName (e.g, MASTER or MAIN)
 
 On githib.com:
   After Push request done by user github open a link to compare and Pull Request to master copy.
+
+
+Set Alias:
+Alias are shorter name of anything, Now we set alias for git commands:
+
+Command:
+1- git config --global alias.s 'status' (Now you run "git s" its works like "git status")
+2- git config --global alias.sc 'commit -a -m' (Now you run "git sc" its works like "git commit -a -m")
