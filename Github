@@ -193,4 +193,17 @@ Now Set new Origin: (This Command generate by github when repositry is created)
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 Push Code:
-git push origin main
+git push origin BranchName (e.g, Main, Master OR Developer Branch)
+
+Create Branches:
+Branches are created for mulitple Developers works on same project. They work on thier own branch and update code on this branch. After Finalize the work all Developer's code merge and send to "Master" or "Main" Branch.
+
+Command to create a New Branch:
+git checkout -b BranchName
+
+Command to Switch Branch:
+git checkout BranchName (e.g, Master)
+
+Command to see all branches:
+git branch (Green branch is Selected Branch)
+
