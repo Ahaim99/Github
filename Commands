@@ -78,3 +78,12 @@ git checkout BranchName (e.g, Master)
 
 Command to see all branches:
 git branch (Green branch is Selected Branch)
+
+Merge:
+to Swicth Branch:
+git branch master or main
+
+Merge:(merge one by one all branches)
+git merge branchA
+git merge branchA
+git merge branchA
